@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Repositorio privado con el código del proyecto Banxico para la prueba técnica de la empresa Tukan.
 
 ## Available Scripts
 
