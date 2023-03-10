@@ -2,9 +2,9 @@ import React from "react";
 import CardAdvantages from "../../pures/card/CardAdvantages";
 
 const dataAdvantages = [
-  "Authentic Cliche Forage",
-  "Kinfolk Chips Snackwave",
-  "Coloring Book Ethical",
+  "Agilidad en los procesos",
+  "Diferentes colores para tus tableros",
+  "Persistencia de datos",
   "Typewriter Polaroid Cray",
   "Pack Truffaut Blue",
   "The Catcher In The Rye",

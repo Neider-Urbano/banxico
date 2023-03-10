@@ -2,8 +2,7 @@ import React, { useEffect } from "react";
 import axios from "axios";
 import Footer from "../components/pures/footers/Footer";
 import NavPrivate from "../components/containers/navigations/NavPrivate";
-import ModalPrivate from "../components/pures/modals/ModalPrivate";
-import ToastModal from "../components/pures/toasts/ToastModal";
+import Main from "../components/containers/main/Main";
 
 const Private = () => {
   useEffect(() => {
@@ -21,8 +20,7 @@ const Private = () => {
   return (
     <div>
       <NavPrivate />
-      <ModalPrivate />
-      <ToastModal />
+      <Main />
       <Footer />
     </div>
   );

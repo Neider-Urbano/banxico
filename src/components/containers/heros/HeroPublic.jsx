@@ -6,12 +6,12 @@ const HeroPublic = () => {
     <section className="text-gray-600 body-font" id="home">
       <DivHero>
         <DivUnoHero>
-          <TitleHero>Before they sold out</TitleHero>
+          <TitleHero>¡Unete a Banxico!</TitleHero>
           <p className="mb-8 leading-relaxed">
-            Copper mug try-hard pitchfork pour-over freegan heirloom neutra air
-            plant cold-pressed tacos poke beard tote bag. Heirloom echo park
-            mlkshk tote bag selvage hot chicken authentic tumeric truffaut
-            hexagon try-hard chambray.
+            Necesitas el mejor servicio para crear tableros personalizados,
+            entonces, bienvenido a Banxico, pagina web donde podrás administrar
+            y gestionar tus tableros. Empieza este viaje con Banxico y no te
+            arrepentiras.
           </p>
         </DivUnoHero>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
